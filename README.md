@@ -6,5 +6,6 @@ Cucumber testing framework with Jest.
 
 To execute:
 Import the project into your favorite IDE or access the path where the hosts are.
+
 Run in terminal:
-$ jest
+$jest
